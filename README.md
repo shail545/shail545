@@ -1,16 +1,55 @@
-## Hi there 👋
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="Monkey Hi" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/shail545/">
+    <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!--   </a>
+    <a href="https://github.com/debasishbsws/resume">
+    <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
+  </a> -->
+<!--   <a href="https://twitter.com/debasishbsws">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+</div>
+<!--   <img src="https://komarev.com/ghpvc/?username=debasishbsws&style=flat-square&color=blue" alt=""/> -->
+  
+</div>
 
-<!--
-**shail545/shail545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :technologist: Shailendra singh
 
-Here are some ideas to get you started:
+I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech. -->
+
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shail_545/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Dcoker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
+
+
+  
+
+</div>
+
+---
+
+### :fire: My Stats :
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shail545&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=shail545&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
+</div>
