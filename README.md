@@ -3,6 +3,15 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/shail545/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://www.instagram.com/shail_545/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+   <a href="https://leetcode.com/u/shailjma07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+</a>
+   <a href="https://www.geeksforgeeks.org/user/whyshail/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+</a>
 <!--   </a>
     <a href="https://github.com/debasishbsws/resume">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
