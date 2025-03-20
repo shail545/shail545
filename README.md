@@ -1,6 +1,9 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="Monkey Hi" width="100"/>
   <div id="badges">
+   <a href="https://x.com/home">
+    <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
   <a href="https://www.linkedin.com/in/shail545/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    <a href="https://www.instagram.com/shail_545/">
