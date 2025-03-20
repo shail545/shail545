@@ -33,7 +33,7 @@ I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <!-- - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech. -->
 
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shail_545/)
+- :mailbox:How to reach me:[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shail545/)
 
 ---
 
